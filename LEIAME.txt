@@ -1,0 +1,6 @@
+Void Soluctions - site de portfolio
+
+index.html: site completo e autonomo (midias embutidas). Abra no navegador ou envie para qualquer hospedagem.
+assets/: copias otimizadas das midias (video de fundo com loop, logo transparente, mockup Tenis Head).
+Fontes: Google Fonts (precisa de internet).
+WhatsApp e Instagram: edite os links em index.html.
